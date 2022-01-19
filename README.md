@@ -1,6 +1,6 @@
 # Kong Data Loader
 
-This program will load a (2.4, 2.5, or 2.6) bootstrapped Kong schema with a huge amount of Consumers
+This program will load a (2.4 to 2.7) bootstrapped Kong schema with a huge amount of Consumers
 and Rate Limiting Advanced plugins.
 
 This is to test data loading in certain scenarios.
